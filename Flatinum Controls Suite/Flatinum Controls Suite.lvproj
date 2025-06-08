@@ -56,7 +56,7 @@
 				<Item Name="Up Button FF_Flat.ctl" Type="VI" URL="../Buttons/Flat/Up Button FF_Flat.ctl"/>
 			</Item>
 		</Item>
-		<Item Name="Fire Fist Controls Suite.vipb" Type="Document" URL="../Fire Fist Controls Suite.vipb"/>
+		<Item Name="Flatinum Controls Suite.vipb" Type="Document" URL="../Flatinum Controls Suite.vipb"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
