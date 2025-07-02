@@ -13,6 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Buttons" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="Flat" Type="Folder">
 				<Item Name="Add Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Add Button FCS_Flat.ctl"/>
 				<Item Name="Blank Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Blank Button FCS_Flat.ctl"/>
@@ -55,11 +56,50 @@
 				<Item Name="Top Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Top Button FCS_Flat.ctl"/>
 				<Item Name="Up Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Up Button FCS_Flat.ctl"/>
 			</Item>
-			<Item Name="Flat Slim" Type="Folder">
-				<Item Name="OK Button FCS_FlatSlim.ctl" Type="VI" URL="../Buttons/Flat Slim/OK Button FCS_FlatSlim.ctl"/>
+			<Item Name="Slim" Type="Folder">
+				<Item Name="Add Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Add Button FCS_Slim.ctl"/>
+				<Item Name="Bottom Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Bottom Button FCS_Slim.ctl"/>
+				<Item Name="Cancel Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Cancel Button FCS_Slim.ctl"/>
+				<Item Name="Copy Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Copy Button FCS_Slim.ctl"/>
+				<Item Name="Down Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Down Button FCS_Slim.ctl"/>
+				<Item Name="Eject Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Eject Button FCS_Slim.ctl"/>
+				<Item Name="First Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/First Button FCS_Slim.ctl"/>
+				<Item Name="Help Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Help Button FCS_Slim.ctl"/>
+				<Item Name="Home Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Home Button FCS_Slim.ctl"/>
+				<Item Name="Jump Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Jump Button FCS_Slim.ctl"/>
+				<Item Name="Last Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Last Button FCS_Slim.ctl"/>
+				<Item Name="Lock Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Lock Button FCS_Slim.ctl"/>
+				<Item Name="Mail Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Mail Button FCS_Slim.ctl"/>
+				<Item Name="Media Stop Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Media Stop Button FCS_Slim.ctl"/>
+				<Item Name="New Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/New Button FCS_Slim.ctl"/>
+				<Item Name="Next Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Next Button FCS_Slim.ctl"/>
+				<Item Name="OK Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/OK Button FCS_Slim.ctl"/>
+				<Item Name="Open Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Open Button FCS_Slim.ctl"/>
+				<Item Name="Paste Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Paste Button FCS_Slim.ctl"/>
+				<Item Name="Pause Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Pause Button FCS_Slim.ctl"/>
+				<Item Name="Play Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Play Button FCS_Slim.ctl"/>
+				<Item Name="Preferences Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Preferences Button FCS_Slim.ctl"/>
+				<Item Name="Previous Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Previous Button FCS_Slim.ctl"/>
+				<Item Name="Print Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Print Button FCS_Slim.ctl"/>
+				<Item Name="Process Stop Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Process Stop Button FCS_Slim.ctl"/>
+				<Item Name="Record Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Record Button FCS_Slim.ctl"/>
+				<Item Name="Refresh Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Refresh Button FCS_Slim.ctl"/>
+				<Item Name="Remove Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Remove Button FCS_Slim.ctl"/>
+				<Item Name="Save As Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Save As Button FCS_Slim.ctl"/>
+				<Item Name="Save Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Save Button FCS_Slim.ctl"/>
+				<Item Name="Search Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Search Button FCS_Slim.ctl"/>
+				<Item Name="Seek Back Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Seek Back Button FCS_Slim.ctl"/>
+				<Item Name="Seek Forward Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Seek Forward Button FCS_Slim.ctl"/>
+				<Item Name="Settings Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Settings Button FCS_Slim.ctl"/>
+				<Item Name="Skip Back Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Skip Back Button FCS_Slim.ctl"/>
+				<Item Name="Skip Forward Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Skip Forward Button FCS_Slim.ctl"/>
+				<Item Name="Stop Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Stop Button FCS_Slim.ctl"/>
+				<Item Name="Top Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Top Button FCS_Slim.ctl"/>
+				<Item Name="Up Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Up Button FCS_Slim.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Flatinum Controls Suite.vipb" Type="Document" URL="../Flatinum Controls Suite.vipb"/>
+		<Item Name="Mass Rename Window Titles.vi" Type="VI" URL="../Utility/Mass Rename Window Titles.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
