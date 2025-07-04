@@ -2,7 +2,6 @@
 <Project Type="Project" LVVersion="23008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
-		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -98,8 +97,18 @@
 				<Item Name="Up Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Up Button FCS_Slim.ctl"/>
 			</Item>
 		</Item>
+		<Item Name="Simple Mods" Type="Folder">
+			<Item Name="File Path Control FCS_Centered.ctl" Type="VI" URL="../Simple Mods/File Path Control FCS_Centered.ctl"/>
+			<Item Name="String Control FCS_Centered.ctl" Type="VI" URL="../Simple Mods/String Control FCS_Centered.ctl"/>
+			<Item Name="Table Control FCS_Bright.ctl" Type="VI" URL="../Simple Mods/Table Control FCS_Bright.ctl"/>
+		</Item>
+		<Item Name="Utility" Type="Folder">
+			<Item Name="Buttons Palette Icon.vi" Type="VI" URL="../Utility/Buttons Palette Icon.vi"/>
+			<Item Name="FCS Palette Icon.vi" Type="VI" URL="../Utility/FCS Palette Icon.vi"/>
+			<Item Name="Mass Rename Window Titles.vi" Type="VI" URL="../Utility/Mass Rename Window Titles.vi"/>
+			<Item Name="Simple Mods Palette Icon.vi" Type="VI" URL="../Utility/Simple Mods Palette Icon.vi"/>
+		</Item>
 		<Item Name="Flatinum Controls Suite.vipb" Type="Document" URL="../Flatinum Controls Suite.vipb"/>
-		<Item Name="Mass Rename Window Titles.vi" Type="VI" URL="../Utility/Mass Rename Window Titles.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
