@@ -101,9 +101,6 @@
 				<Item Name="Up Button FCS_Slim.ctl" Type="VI" URL="../Buttons/Slim/Up Button FCS_Slim.ctl"/>
 			</Item>
 		</Item>
-		<Item Name="Ring &amp; Enum" Type="Folder">
-			<Item Name="Text &amp; Pict Ring FCS_Flat.ctl" Type="VI" URL="../Ring &amp; Enum/Text &amp; Pict Ring FCS_Flat.ctl"/>
-		</Item>
 		<Item Name="Simple Mods" Type="Folder">
 			<Item Name="File Path Control FCS_Centered.ctl" Type="VI" URL="../Simple Mods/File Path Control FCS_Centered.ctl"/>
 			<Item Name="String Control FCS_Centered.ctl" Type="VI" URL="../Simple Mods/String Control FCS_Centered.ctl"/>
@@ -118,6 +115,7 @@
 		</Item>
 		<Item Name="Flatinum Controls Suite.vipb" Type="Document" URL="../Flatinum Controls Suite.vipb"/>
 		<Item Name="Square LED FCS_Flat.ctl" Type="VI" URL="../Square LED FCS_Flat.ctl"/>
+		<Item Name="Text &amp; Pict Ring FCS_Flat.ctl" Type="VI" URL="../Text &amp; Pict Ring FCS_Flat.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
