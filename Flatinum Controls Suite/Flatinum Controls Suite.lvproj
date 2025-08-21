@@ -31,7 +31,7 @@
 				<Item Name="Media Stop Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Media Stop Button FCS_Flat.ctl"/>
 				<Item Name="New Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/New Button FCS_Flat.ctl"/>
 				<Item Name="Next Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Next Button FCS_Flat.ctl"/>
-				<Item Name="OK Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/OK Button FCS_Flat.ctl"/>
+				<Item Name="OK Button FCS_Flat.ctl" Type="VI" URL="/&lt;vilib&gt;/Redhawk/Flatinum Controls Suite/Buttons/Flat/OK Button FCS_Flat.ctl"/>
 				<Item Name="Open Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Open Button FCS_Flat.ctl"/>
 				<Item Name="Paste Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Paste Button FCS_Flat.ctl"/>
 				<Item Name="Pause Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Pause Button FCS_Flat.ctl"/>
@@ -102,8 +102,8 @@
 			</Item>
 		</Item>
 		<Item Name="Simple Mods" Type="Folder">
-			<Item Name="File Path Control FCS_Centered.ctl" Type="VI" URL="../Simple Mods/File Path Control FCS_Centered.ctl"/>
-			<Item Name="String Control FCS_Centered.ctl" Type="VI" URL="../Simple Mods/String Control FCS_Centered.ctl"/>
+			<Item Name="File Path Control FCS_Centered.ctl" Type="VI" URL="/&lt;vilib&gt;/Redhawk/Flatinum Controls Suite/Simple Mods/File Path Control FCS_Centered.ctl"/>
+			<Item Name="String Control FCS_Centered.ctl" Type="VI" URL="/&lt;vilib&gt;/Redhawk/Flatinum Controls Suite/Simple Mods/String Control FCS_Centered.ctl"/>
 			<Item Name="Table Control FCS_Bright.ctl" Type="VI" URL="../Simple Mods/Table Control FCS_Bright.ctl"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
@@ -114,9 +114,41 @@
 			<Item Name="Simple Mods Palette Icon.vi" Type="VI" URL="../Utility/Simple Mods Palette Icon.vi"/>
 		</Item>
 		<Item Name="Flatinum Controls Suite.vipb" Type="Document" URL="../Flatinum Controls Suite.vipb"/>
+		<Item Name="NET Tester.vi" Type="VI" URL="../NET Tester.vi"/>
+		<Item Name="Populate me.vi" Type="VI" URL="../Populate me.vi"/>
 		<Item Name="Square LED FCS_Flat.ctl" Type="VI" URL="../Square LED FCS_Flat.ctl"/>
 		<Item Name="Text &amp; Pict Ring FCS_Flat.ctl" Type="VI" URL="../Text &amp; Pict Ring FCS_Flat.ctl"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="Convert to 32Bit Image.vi" Type="VI" URL="/&lt;userlib&gt;/_Hooovahh/Image Manipulation/LV Image Bit Depth Conversion/Convert to 32Bit Image.vi"/>
+				<Item Name="Load Image.vi" Type="VI" URL="/&lt;userlib&gt;/_Hooovahh/Image Manipulation/DotNET/Load Image.vi"/>
+				<Item Name="Read Ico File.vi" Type="VI" URL="/&lt;userlib&gt;/_Hooovahh/Image Manipulation/DotNET/Read Ico File.vi"/>
+			</Item>
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
+				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
+				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
+				<Item Name="NI_WebServices.lvlib" Type="Library" URL="/&lt;vilib&gt;/wsapi/NI_WebServices.lvlib"/>
+			</Item>
+			<Item Name="mscorlib" Type="VI" URL="mscorlib">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="NationalInstruments.UI" Type="Document" URL="NationalInstruments.UI">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="NationalInstruments.UI.Styles3D" Type="Document" URL="NationalInstruments.UI.Styles3D">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="NationalInstruments.UI.WindowsForms" Type="Document" URL="NationalInstruments.UI.WindowsForms">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="System.Drawing" Type="Document" URL="System.Drawing">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
