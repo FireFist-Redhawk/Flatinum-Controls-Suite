@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
+  <defs>
+    <path id="J" fill="#fff" fill-opacity=".45762709" d="M16.5 22.6875a1.75 1.8125 0 1 1-3.5 0 1.75 1.8125 0 1 1 3.5 0z" color="#000" font-family="Bitstream Vera Sans" overflow="visible" style="marker:none"/>
+    <path id="K" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none"/>
+  </defs>
+  <defs>
+    <linearGradient id="r">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset=".5"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="u" x1="302.85715" x2="302.85715" y1="366.64789" y2="609.50507" gradientTransform="matrix(2.77439 0 0 1.9697 -1892.179 -872.8854)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient id="h">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="m">
+      <stop offset="0" stop-color="#eee"/>
+      <stop offset="1" stop-color="#a2a2a2"/>
+    </linearGradient>
+    <linearGradient id="l">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cbcbcb"/>
+    </linearGradient>
+    <linearGradient id="n">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="j">
+      <stop offset="0" stop-color="#bebebe" stop-opacity="0"/>
+      <stop offset="1" stop-color="#717171"/>
+    </linearGradient>
+    <linearGradient id="f">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#174992"/>
+      <stop offset="1" stop-color="#233247"/>
+    </linearGradient>
+    <linearGradient id="g">
+      <stop offset="0" stop-opacity=".2783505"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#c8c8c8"/>
+      <stop offset="1" stop-color="#545454"/>
+    </linearGradient>
+    <linearGradient id="p">
+      <stop offset="0" stop-color="#919191"/>
+      <stop offset="1" stop-color="#545454"/>
+    </linearGradient>
+    <linearGradient id="e">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="i">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#747474"/>
+    </linearGradient>
+    <linearGradient id="o">
+      <stop offset="0" stop-color="#ddd"/>
+      <stop offset="1" stop-color="#a0a0a0"/>
+    </linearGradient>
+    <linearGradient id="k">
+      <stop offset="0" stop-color="#d7d7d7"/>
+      <stop offset="1" stop-color="#9a9a9a"/>
+    </linearGradient>
+    <linearGradient id="q">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#b6b6b6"/>
+    </linearGradient>
+    <linearGradient id="s">
+      <stop offset="0" stop-color="#d3d3d3"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#b6b6b6"/>
+      <stop offset="1" stop-color="#a0a0a0"/>
+    </linearGradient>
+    <linearGradient xlink:href="#b" id="t" x1="39.814648" x2="39.532253" y1="3.25" y2="26.625" gradientTransform="matrix(1.19233 0 0 1 -11.96891 -.625)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#c" id="ae" x1="31.289474" x2="31.55464" y1="23.074486" y2="35.537243" gradientTransform="matrix(.92034 0 0 1 5.113065 -.618717)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#d" id="af" x1="32.372795" x2="34.443943" y1="24.311874" y2="36.686241" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#e" id="ag" x1="40.59375" x2="21.375" y1="33.21875" y2="23.5" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#f" id="ah" x1="28.798098" x2="33.98465" y1="20.222286" y2="35.071529" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#g" id="ai" x1="16.489622" x2="13.114621" y1="26.012749" y2="28.125509" gradientTransform="translate(-.405869 -2.837538) scale(1.03095)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#h" id="ad" x1="30.661369" x2="16.638567" y1="23.39677" y2="27.727798" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#i" id="ac" x1="8.6845827" x2="7.15625" y1="32.006123" y2="27.409931" gradientTransform="matrix(.63366 0 0 1.2973 10.46536 -8.81081)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#j" id="H" x1="26.980543" x2="26.604893" y1="15.296312" y2="27.891649" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#k" id="G" x1="18.694136" x2="23.864855" y1="24.665476" y2="32.090096" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#l" id="E" x1="6.5595827" x2="6.5595827" y1="29.37381" y2="30.191154" gradientTransform="matrix(1.12087 0 0 2.56364 -.106115 -48.35474)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#m" id="F" x1="7.9151335" x2="7.9151335" y1="30.816841" y2="24.700985" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#n" id="D" x1="9.5126343" x2="11.343681" y1="16.013027" y2="35.138027" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#o" id="C" x1="12.586802" x2="12.523165" y1="29.70616" y2="36.841251" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#o" id="B" x1="12.649302" x2="12.523165" y1="24.64366" y2="36.841251" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#p" id="A" x1="12.649302" x2="12.523165" y1="24.64366" y2="36.841251" gradientTransform="translate(-1.125 -.125)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="L" x1="12.187341" x2="12.257777" y1="42.484329" y2="30.812494" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="M" x1="7.687366" x2="7.757802" y1="42.484352" y2="30.812517" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="N" x1="3.1873815" x2="3.2578177" y1="42.484329" y2="30.812494" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="O" x1="-1.3126028" x2="-1.2421666" y1="42.484329" y2="30.812494" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="P" x1=".93738264" x2="1.0078188" y1="40.23436" y2="28.562525" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="Q" x1="5.437367" x2="5.507803" y1="40.234337" y2="28.562502" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="R" x1="9.9373512" x2="10.007788" y1="40.234337" y2="28.562502" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="S" x1="12.18735" x2="12.257786" y1="37.984367" y2="26.312532" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="T" x1="7.687366" x2="7.757802" y1="37.984344" y2="26.31251" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="U" x1="3.1873815" x2="3.2578177" y1="37.984344" y2="26.31251" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="V" x1="-1.3126028" x2="-1.2421666" y1="37.984344" y2="26.31251" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="W" x1=".93738264" x2="1.0078188" y1="35.734352" y2="24.062519" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="X" x1="-1.3126028" x2="-1.2421666" y1="33.484383" y2="21.812548" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="Y" x1="3.1873748" x2="3.2578108" y1="33.484383" y2="21.812548" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="Z" x1="5.437367" x2="5.507803" y1="35.734352" y2="24.062519" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="aa" x1="7.687366" x2="7.757802" y1="33.484383" y2="21.812548" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#q" id="ab" x1="9.9373579" x2="10.007794" y1="35.734352" y2="24.062519" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#a" id="x" x1="302.85715" x2="302.85715" y1="366.64789" y2="609.50507" gradientTransform="matrix(2.77439 0 0 1.9697 -1892.179 -872.8854)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#r" id="w" cx="605.71429" cy="486.64789" r="117.14286" fx="605.71429" fy="486.64789" gradientTransform="matrix(-2.77439 0 0 1.9697 112.7623 -872.8854)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#r" id="v" cx="605.71429" cy="486.64789" r="117.14286" fx="605.71429" fy="486.64789" gradientTransform="matrix(2.77439 0 0 1.9697 -1891.633 -872.8854)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#s" id="I" cx="16.875" cy="23.672499" r="4.625" fx="16.875" fy="23.672499" gradientTransform="matrix(1 0 0 1.01351 0 -.304899)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#r" id="y" cx="605.71429" cy="486.64789" r="117.14286" fx="605.71429" fy="486.64789" gradientTransform="matrix(2.77439 0 0 1.9697 -1891.633 -872.8854)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#r" id="z" cx="605.71429" cy="486.64789" r="117.14286" fx="605.71429" fy="486.64789" gradientTransform="matrix(-2.77439 0 0 1.9697 112.7623 -872.8854)" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <g color="#000">
+    <path fill="url(#t)" stroke="#6c6c6c" stroke-linecap="round" stroke-linejoin="round" d="M30.806057 10.75s.167672-1.15625 1.564938-1.125h8.197293c1.527677 0 2.067952.953125 2.012062 2.0625v5.125c-.01863 1.03125-.838359 1.671875-1.863021 1.75l-9.538668.0625L30.731536 16l.074521-5.25z" font-family="Bitstream Vera Sans" overflow="visible" style="marker:none"/>
+    <g transform="matrix(.01985 0 0 .02087 38.77905 35.9036)">
+      <path fill="url(#u)" d="M-1559.2523-150.69685h1339.6335v478.35718h-1339.6335z" opacity=".40206185" overflow="visible" style="marker:none"/>
+      <path fill="url(#v)" d="M-219.61876-150.68038v478.33079c142.874166.90045 345.40022-107.16966 345.40014-239.196175 0-132.026537-159.436816-239.134595-345.40014-239.134615z" opacity=".40206185" overflow="visible" style="marker:none"/>
+      <path fill="url(#w)" d="M-1559.2523-150.68038v478.33079c-142.8742.90045-345.4002-107.16966-345.4002-239.196175 0-132.026537 159.4368-239.134595 345.4002-239.134615z" opacity=".40206185" overflow="visible" style="marker:none"/>
+    </g>
+    <g opacity=".32989691" transform="matrix(.01194 0 0 .01273 44.30799 39.99902)">
+      <path fill="url(#x)" d="M-1559.2523-150.69685h1339.6335v478.35718h-1339.6335z" opacity=".40206185" overflow="visible" style="marker:none"/>
+      <path fill="url(#y)" d="M-219.61876-150.68038v478.33079c142.874166.90045 345.40022-107.16966 345.40014-239.196175 0-132.026537-159.436816-239.134595-345.40014-239.134615z" opacity=".40206185" overflow="visible" style="marker:none"/>
+      <path fill="url(#z)" d="M-1559.2523-150.68038v478.33079c-142.8742.90045-345.4002-107.16966-345.4002-239.196175 0-132.026537 159.4368-239.134595 345.4002-239.134615z" opacity=".40206185" overflow="visible" style="marker:none"/>
+    </g>
+  </g>
+  <path fill="#c6c6c6" stroke="#c4c4c4" stroke-linejoin="round" d="m39.875 12.375-8.1875 2.5-5.625-.25 8.125-2.25h5.6875z" color="#000" font-family="Bitstream Vera Sans" overflow="visible" style="marker:none"/>
+  <path fill="url(#A)" stroke="#7a7a7a" stroke-linejoin="round" d="M39.875 12.4375 31.5 14.875v4.5l8.375-2.875v-4.0625z" color="#000" font-family="Bitstream Vera Sans" overflow="visible" style="marker:none"/>
+  <path fill="url(#B)" stroke="#6c6c6c" stroke-width="2" d="M30.946541 13.125 16.1875 13.045653c-5.202075 0-7.5625 3.52325-7.5625 6.59375 0 2.887974 2.153028 4.946448 3.625 5.46875V32.25c0 3.470857 2.252357 6.455357 5.4375 6.3125l14.84375.15625c1.899429 0 4.90625-1.913073 4.90625-3.8125V18.712849c0-3.47994-2.226812-5.587849-6.490959-5.587849z" color="#000" font-family="Bitstream Vera Sans" overflow="visible" style="marker:none"/>
+  <path fill="url(#C)" stroke="#6c6c6c" d="m7.0590545 14.475766 15.5892855-.357143c1.899429 0 3.428572 1.529143 3.428572 3.428572v16.857143c0 1.899428-1.529143 4.708901-3.428572 4.708901l-14.8392855-.142857c-3.185143.142857-5.428572-3.238044-5.428572-6.708901V20.029338c-.1580558-2.480207.942781-5.250996 4.678572-5.553572z"/>
+  <path fill="none" stroke="url(#D)" stroke-opacity=".75141245" stroke-width=".93053865" d="m7.5565619 15.38216 14.9041811-.281802c1.767492 0 2.79267-.621267 2.79267 1.146225v17.5473c0 1.767492-1.422926 4.381815-3.190418 4.381815l-13.8085291-.132934c-2.9638987.132934-4.9631078-3.013125-4.9631078-6.242892V20.41739c-.0144946-1.865986.081799-4.665284 4.2652038-5.03523z"/>
+  <rect width="7.075511" height="5.9284096" x="4.377378" y="24.388432" fill="url(#E)" stroke="url(#F)" color="#000" font-family="Bitstream Vera Sans" overflow="visible" rx="1.5035444" ry="1.5035446" style="marker:none"/>
+  <path fill="url(#G)" d="M30.183978 13.125 16.1875 13.023129c-4.858325.03125-7.5625 3.52325-7.5625 6.59375 0 2.887974 2.153028 4.946448 3.625 5.46875V32.25c0 3.470857-.561048 6.17989 5.4375 6.3125l14.84375.15625c2.001404.061634 4.90625-1.913073 4.90625-3.8125V19.066403c0-3.965396-2.415466-6.045877-7.253522-5.941403z"/>
+  <path fill="url(#H)" d="M17.633475 37.570175c.53033-.082864 1.224904-.390642 1.220864-1.09476l-.071815-12.517046c1.34099-1.607074 2.30568-3.766308 1.385184-6.325129l16.159903-.038832-.220971 16.351845s-1.15652 3.725524-3.712311 3.756504l-14.760854-.132582z" color="#000" font-family="Bitstream Vera Sans" opacity=".6557377" overflow="visible" style="marker:none"/>
+  <path fill="url(#I)" stroke="#6c6c6c" d="M19.875 22.5625a4.125 4.1875 0 1 1-8.25 0 4.125 4.1875 0 1 1 8.25 0z" color="#000" font-family="Bitstream Vera Sans" overflow="visible" style="marker:none" transform="translate(-1.375 -2.890164)"/>
+  <use xlink:href="#J" fill-opacity=".45762709" color="#000" font-family="Bitstream Vera Sans" overflow="visible" style="marker:none" transform="translate(.5625 -2.515164)"/>
+  <use xlink:href="#J" color="#000" font-family="Bitstream Vera Sans" overflow="visible" style="marker:none" transform="translate(.85534 -.480722) scale(.84032)"/>
+  <g color="#000" font-family="Bitstream Vera Sans" transform="translate(1.000003 .000007)">
+    <g fill="#fff" transform="translate(.176777 .176777)">
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(2.83333 18.05551) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(4.833326 18.0555) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(6.833326 18.05551) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(8.833326 18.05551) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(7.833329 19.0555) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(5.833329 19.05551) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(3.833329 19.05551) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(2.833326 20.0555) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(4.833326 20.05551) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(6.833326 20.05551) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(8.833326 20.05551) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(7.833329 21.05551) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(8.833326 22.0555) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(6.833329 22.0555) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(5.833329 21.05551) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(4.833326 22.0555) scale(.44445)"/>
+      <use xlink:href="#K" overflow="visible" style="marker:none" transform="translate(3.833326 21.05551) scale(.44445)"/>
+    </g>
+    <path fill="url(#L)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(2.83333 18.05551) scale(.44445)"/>
+    <path fill="url(#M)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(4.833326 18.0555) scale(.44445)"/>
+    <path fill="url(#N)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(6.833326 18.05551) scale(.44445)"/>
+    <path fill="url(#O)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(8.833326 18.05551) scale(.44445)"/>
+    <path fill="url(#P)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(7.833329 19.0555) scale(.44445)"/>
+    <path fill="url(#Q)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(5.833329 19.05551) scale(.44445)"/>
+    <path fill="url(#R)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(3.833329 19.05551) scale(.44445)"/>
+    <path fill="url(#S)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(2.833326 20.0555) scale(.44445)"/>
+    <path fill="url(#T)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(4.833326 20.05551) scale(.44445)"/>
+    <path fill="url(#U)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(6.833326 20.05551) scale(.44445)"/>
+    <path fill="url(#V)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(8.833326 20.05551) scale(.44445)"/>
+    <path fill="url(#W)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(7.833329 21.05551) scale(.44445)"/>
+    <path fill="url(#X)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(8.833326 22.0555) scale(.44445)"/>
+    <path fill="url(#Y)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(6.833329 22.0555) scale(.44445)"/>
+    <path fill="url(#Z)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(5.833329 21.05551) scale(.44445)"/>
+    <path fill="url(#aa)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(4.833326 22.0555) scale(.44445)"/>
+    <path fill="url(#ab)" d="M4.875 32.5a1.125 1.125 0 1 1-2.25 0 1.125 1.125 0 1 1 2.25 0z" overflow="visible" style="marker:none" transform="translate(3.833326 21.05551) scale(.44445)"/>
+  </g>
+  <rect width="4" height="3" x="13" y="28" fill="url(#ac)" color="#000" font-family="Bitstream Vera Sans" overflow="visible" rx=".50354433" ry=".50354433" style="marker:none"/>
+  <path fill-opacity=".10734458" fill-rule="evenodd" d="M19.234835 37.206242V24.346407c.767696-.805786 1.186439-1.483 1.592229-2.723146h13.500601l-12.875.714263c-.338388.7848-.900428 1.670495-1.449524 2.284772l-.768306 12.583946z"/>
+  <path fill="none" stroke="url(#ad)" d="m30.852943 13.627626-14.288803-.118361c-4.590951.02953-7.1463046 3.550322-7.1463046 6.451839 0 2.729037 2.0345376 4.674225 3.4255016 5.167783v6.770086c0 3.279841-.530171 6.016562 5.138252 6.141874l14.026837.147651c2.244811.014048 4.945598-1.410042 4.901404-3.77946v-15.55118c0-3.066581-1.990811-5.230232-6.056887-5.230232z" opacity=".63387978"/>
+  <g transform="matrix(1 0 -.06157 1 1.77654 0)">
+    <rect width="5.0357141" height="7.0985928" x="20.82843" y="25.444061" fill="#e0e0e0" stroke="#6c6c6c" stroke-width=".88373333" color="#000" font-family="Bitstream Vera Sans" overflow="visible" rx=".28571433" ry=".28517434" style="marker:none"/>
+    <rect width="21.545832" height="16.267857" x="23.79928" y="20.720566" fill="url(#ae)" stroke="#6c6c6c" color="#000" font-family="Bitstream Vera Sans" overflow="visible" rx="1.2857143" ry="1.2832843" style="marker:none"/>
+    <rect width="16.053572" height="12.053572" x="25.938265" y="22.881281" fill="url(#af)" rx=".27234393" ry=".27182922"/>
+    <rect width="18.296387" height="14.230534" x="24.837126" y="21.748661" fill="none" stroke="url(#ag)" stroke-linecap="round" stroke-linejoin="round" color="#000" font-family="Bitstream Vera Sans" overflow="visible" rx=".00717889" ry=".00716532" style="marker:none"/>
+    <path fill="url(#ah)" d="M27.375 23.5c-.150879 0-.303229.130656-.3125.28125l-.5625 9.25C33.815243 31.681306 33.85748 27.120605 41.34375 26l.125-2.21875c.009272-.150593-.09912-.28125-.25-.28125H27.375z" opacity=".15300544" transform="matrix(1 0 .06157 1 -1.77654 0)"/>
+  </g>
+  <path fill-opacity=".25988701" fill-rule="evenodd" d="m20.948038 32.973981 1.988738 2.209709.176776-2.253903-2.165514.044194zm3.623923 4.507806.530329 1.149048 7.336233.088388c1.814182.083487 3.379744-1.237436 3.379744-1.237436H24.571961z"/>
+  <path fill="url(#ai)" fill-rule="evenodd" d="M13.114621 25.495849c3.189332.091125 5.034588-.512569 5.888873-1.902208-1.230171 2.597027-5.888873 2.938742-5.888873 2.938742v-1.036534z"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".62711865" stroke-width="1.0000005" d="M21.214039 15.323636h11.57068"/>
+  <path fill="#fff" d="M20.064156 18.345709a.83968931.83968931 0 1 1-1.679379 0 .83968931.83968931 0 1 1 1.679379 0z" color="#000" font-family="Bitstream Vera Sans" overflow="visible" style="marker:none" transform="translate(-6.515399 -9.03965) scale(1.32144)"/>
+</svg>

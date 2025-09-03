@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c" x1="-28.969" x2="-37.197" y1="-25.327" y2="-9.5591" gradientTransform="matrix(.71579 -.97635 .97635 .71579 64 5.27)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff9c6" offset="0"/>
+   <stop stop-color="#fff28c" offset=".54167"/>
+   <stop stop-color="#ffea85" offset="1"/>
+  </linearGradient>
+  <radialGradient id="b" cx="-33.519" cy="-22.113" r="9.5" gradientTransform="matrix(.88686 1.5361 -1.2643 .80739 22.66 88.11)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff7c2" stop-opacity=".6383" offset="0"/>
+   <stop stop-color="#fcaf3e" stop-opacity=".18349" offset=".59394"/>
+   <stop stop-color="#fcaf3e" stop-opacity=".50459" offset=".83851"/>
+   <stop stop-color="#fcaf3e" offset="1"/>
+  </radialGradient>
+  <radialGradient id="a" cx="24" cy="23.382" r="19.142" gradientTransform="matrix(1.0067 0 0 1.0075 -.16 .43)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity="0" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset=".75"/>
+   <stop stop-color="#fff" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g stroke-linecap="square">
+  <path d="m31.4 13.9a12.501 12.501 0 0 1 2.6906 17.474 12.501 12.501 0 0 1-17.474 2.6906 12.501 12.501 0 0 1-2.6906-17.474 12.501 12.501 0 0 1 17.474-2.6906z" fill="#ffee54" stroke="#fcaf3e"/>
+  <path d="m35.83 22.39a12.231 11.761 45.03 0 1-9.7623 13.486 12.231 11.761 45.03 0 1-13.879-10.299 12.231 11.761 45.03 0 1 9.7623-13.486 12.231 11.761 45.03 0 1 13.879 10.299z" fill="url(#b)"/>
+  <path d="m30.81 14.71a11.501 11.501 0 0 1 2.4753 16.075 11.501 11.501 0 0 1-16.075 2.4753 11.501 11.501 0 0 1-2.4753-16.075 11.501 11.501 0 0 1 16.075-2.4753z" fill="none" stroke="url(#c)"/>
+ </g>
+ <g id="d">
+  <g id="e">
+   <g id="f">
+    <path d="m24 5.25-1.3438 3.8125c0.44264-0.03935 0.89094-0.0625 1.3438-0.0625s0.90111 0.0231 1.3438 0.0625z" fill="none" opacity=".7" stroke="url(#a)" stroke-linecap="square" stroke-width=".84646"/>
+    <path d="m24 2.5-2.375 6.6875c0.77403-0.12337 1.5664-0.1875 2.375-0.1875s1.601 0.0641 2.375 0.1875z" fill="#fce94f" opacity=".7" stroke="#fcaf3e" stroke-linecap="square" stroke-width=".73733"/>
+   </g>
+   <use transform="rotate(45 24.008 23.982)" xlink:href="#f"/>
+  </g>
+  <use transform="rotate(90 24 24)" xlink:href="#e"/>
+ </g>
+ <use transform="rotate(180 24.008 23.982)" xlink:href="#d"/>
+</svg>

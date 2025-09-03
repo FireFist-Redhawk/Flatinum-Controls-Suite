@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
+  <defs>
+    <linearGradient id="e">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset=".5"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="g" x1="302.85715" x2="302.85715" y1="366.64789" y2="609.50507" gradientTransform="matrix(2.77439 0 0 1.9697 -1892.179 -872.8854)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient id="d">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="#a5a5a5"/>
+      <stop offset="1" stop-color="#a5a5a5" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#677579"/>
+      <stop offset="1" stop-color="#333"/>
+    </linearGradient>
+    <linearGradient id="f">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#dcdcdc"/>
+    </linearGradient>
+    <linearGradient xlink:href="#b" id="k" x1="12.51301" x2="12.51301" y1="30.585787" y2="16.885592" gradientTransform="matrix(1 0 0 .5876 4.082334 17.55158)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#b" id="l" x1="12.51301" x2="12.51301" y1="30.585787" y2="16.885592" gradientTransform="matrix(1 0 0 .5876 12.05631 17.52556)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#b" id="m" x1="12.51301" x2="12.51301" y1="30.585787" y2="16.885592" gradientTransform="matrix(1 0 0 .5876 20.05631 17.52556)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#c" id="n" x1="23.5" x2="23.5" y1="19.812498" y2="12.687223" gradientTransform="translate(-.05631256 -1.904751)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#d" id="o" x1="24.53125" x2="26.3125" y1="19.0625" y2="40.25" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#e" id="i" cx="605.71429" cy="486.64789" r="117.14286" fx="605.71429" fy="486.64789" gradientTransform="matrix(-2.77439 0 0 1.9697 112.7623 -872.8854)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#e" id="h" cx="605.71429" cy="486.64789" r="117.14286" fx="605.71429" fy="486.64789" gradientTransform="matrix(2.77439 0 0 1.9697 -1891.633 -872.8854)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#f" id="j" cx="24.44569" cy="35.87817" r="20.530962" fx="24.44569" fy="35.87817" gradientTransform="matrix(1.59488 0 0 1.32426 -12.15047 -8.05841)" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <g color="#000">
+    <g transform="matrix(.0198 0 0 .02087 42.3611 37.40314)">
+      <path fill="url(#g)" d="M-1559.2523-150.69685h1339.6335v478.35718h-1339.6335z" opacity=".40206185" overflow="visible" style="marker:none"/>
+      <path fill="url(#h)" d="M-219.61876-150.68038v478.33079c142.874166.90045 345.40022-107.16966 345.40014-239.196175 0-132.026537-159.436816-239.134595-345.40014-239.134615z" opacity=".40206185" overflow="visible" style="marker:none"/>
+      <path fill="url(#i)" d="M-1559.2523-150.68038v478.33079c-142.8742.90045-345.4002-107.16966-345.4002-239.196175 0-132.026537 159.4368-239.134595 345.4002-239.134615z" opacity=".40206185" overflow="visible" style="marker:none"/>
+    </g>
+    <rect width="32.026016" height="23.868273" x="8.526021" y="16.595242" fill="url(#j)" fill-rule="evenodd" stroke="#9b9b9b" stroke-linejoin="bevel" stroke-miterlimit="10" stroke-width="1.00000107" overflow="visible" rx=".8586359" ry=".85863549" style="marker:none"/>
+    <rect width="30.026011" height="21.868261" x="9.5260162" y="17.595253" fill="none" stroke="#fff" stroke-linejoin="bevel" stroke-miterlimit="10" stroke-width=".99999982" overflow="visible" rx="0" ry="0" style="marker:none"/>
+    <path fill="url(#k)" d="M14.082334 26.953245h5.0260191v9.9739799H14.082334z" overflow="visible" style="marker:none"/>
+    <path fill="url(#l)" d="M22.056313 26.927225h5.0260191v9.9739799H22.056313z" overflow="visible" style="marker:none"/>
+    <path fill="url(#m)" d="M30.056313 26.927225h5.0260191v9.9739799H30.056313z" overflow="visible" style="marker:none"/>
+    <path fill="#eeeeec" stroke="#9b9b9b" stroke-width="1.00000012" d="M13.608355 26.434216h6.000001v5.0190296h-6.000001zm7.999998 6.000003h6.000001v5.0190296h-6.000001zm8 0h6.000001v5.0190296h-6.000001z" overflow="visible" style="marker:none"/>
+    <path fill="none" stroke="#fff" d="M14.578023 27.422916h4.1083536v3.0467544H14.578023zM22.5 33.453247h4.1083536v3.0467544H22.5zm8 0h4.1083536v3.0467544H30.5z" overflow="visible" style="marker:none"/>
+    <path fill="url(#n)" stroke="#787878" stroke-width=".99999964" d="m8.4436874 18.595245-3.5-9.9999978H44.943687l-4.3125 9.9999978H8.4436874z" overflow="visible" style="marker:none"/>
+    <path fill="#ddd" stroke="#9f9f9f" stroke-width="1.00000024" d="M4.4436893 8.5952492h41.000019v2.9375H4.4436893z" overflow="visible" style="marker:none"/>
+    <rect width="5.5625" height="2" x="11.443687" y="17.595249" fill="#ddd" stroke="#9f9f9f" overflow="visible" rx="1" ry="1" style="marker:none"/>
+    <rect width="5.5625" height="2" x="31.881187" y="17.595249" fill="#ddd" stroke="#9f9f9f" overflow="visible" rx="1" ry="1" style="marker:none"/>
+    <rect width="16.0625" height="2" x="13" y="22" fill="#9f9f9f" opacity=".43406593" overflow="visible" rx="1" ry="1" style="marker:none"/>
+    <path fill="#fff" d="M5 11V9h40l-1 1H6l-1 1z" opacity=".83406587" overflow="visible" style="marker:none"/>
+    <path fill="url(#o)" d="M9 19.1875v7.03033l1-.8125c16.722274.469133 20.770833.136337 29 5.21967l1.0625 1.3125L40 19.0625l-31 .125z" opacity=".0989011" overflow="visible" style="marker:none"/>
+  </g>
+</svg>

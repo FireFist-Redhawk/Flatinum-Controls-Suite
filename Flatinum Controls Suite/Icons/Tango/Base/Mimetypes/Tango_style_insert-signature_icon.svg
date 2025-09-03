@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 46 46">
+<defs>
+<radialGradient id="i" gradientUnits="userSpaceOnUse" cy="45" cx="2.7" gradientTransform="matrix(.6144 0 0 .2008 9.15 81.25)" r="11">
+<stop offset="0"/>
+<stop stop-opacity="0" offset="1"/>
+</radialGradient>
+<linearGradient id="d" x1="24.84" gradientUnits="userSpaceOnUse" x2="37.4" gradientTransform="matrix(.4783 0 0 .4783 53.76 42.01)" y1="22.41" y2="25.75">
+<stop stop-color="#888" offset="0"/>
+<stop stop-color="#fff" offset=".5"/>
+<stop stop-color="#888" offset="1"/>
+</linearGradient>
+<linearGradient id="c" y2="35.1" xlink:href="#b" gradientUnits="userSpaceOnUse" y1="34.3" gradientTransform="matrix(.4783 0 0 .4783 53.76 42.01)" x2="29.72" x1="26.88"/>
+<linearGradient id="b" y2="13.22" gradientUnits="userSpaceOnUse" x2="38.8" y1="10.27" x1="27.8">
+<stop stop-color="#014" offset="0"/>
+<stop stop-color="#579" offset=".5"/>
+<stop stop-color="#014" offset="1"/>
+</linearGradient>
+<linearGradient id="a" y2="7.16" xlink:href="#b" gradientUnits="userSpaceOnUse" x2="19.23" y1="5.56" x1="13.29"/>
+<linearGradient id="f" y2="7.21" gradientUnits="userSpaceOnUse" y1="5.52" x2="19.39" x1="13.17">
+<stop stop-color="#136" offset="0"/>
+<stop stop-color="#4ae" offset=".5"/>
+<stop stop-color="#136" offset="1"/>
+</linearGradient>
+<linearGradient id="e" y2="1.67" gradientUnits="userSpaceOnUse" x2="14.1" y1="3.15" x1="13.75">
+<stop stop-color="#fff" stop-opacity="0" offset="0"/>
+<stop stop-color="#fff" offset="1"/>
+</linearGradient>
+<radialGradient id="g" gradientUnits="userSpaceOnUse" cy="44.57" cx="30.2" gradientTransform="matrix(2.727 0 0 .9297 -59.69 -1.722)" r="6.57">
+<stop offset="0"/>
+<stop stop-opacity="0" offset="1"/>
+</radialGradient>
+<radialGradient id="h" gradientUnits="userSpaceOnUse" cy="33.8" cx="23" r="41">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#d3d7cf" offset="1"/>
+</radialGradient>
+</defs>
+<ellipse opacity=".4" rx="18.21" ry="6.708" cy="39.29" cx="23" fill="url(#g)"/>
+<rect height="40.2" stroke="#888a85" stroke-width="1.9" fill="url(#h)" rx="5.5" width="40.2" y="1.35" x="2.9"/>
+<rect rx="4.4" height="38.2" width="38.2" stroke="#fff" y="2.35" x="3.9" stroke-width="1.5" fill="none"/>
+<g stroke-linejoin="round" transform="matrix(1.856 0 0 1.856 -96.81 -78.07)">
+<path d="m62.2 57.63c-.44 1.84-1.36 3.56-2.68 4.92 1.72-.92 3.12-2.32 4.08-4 .72 1.28 1.56 2.48 2.56 3.52.28-.44-.2-.84-.36-1.24l-2.12-3.64-1.12 1.68.44-1.76-6.64-.04c-1.36.56-2.04 2.32-1.32 3.64.6 1.2 2.16 1.76 3.35 1.2 2.04-.8 2.76-3.76 1.28-5.44-.64-.72-1.48-1.36-1.64-2.36-.36-1.56.08-3.4 1.52-4.28 1.04-.68 2.64-.48 3.32.6.64.92.32 2.36-.68 2.84-.64.48-1.52-.88-1.88.12-.16.72.76.96 1.24.64 1.12-.68 2.2-1.72 2.36-3.08.2-1.04-.48-2.2-1.56-2.36-1.36-.24-2.6.56-3.56 1.44-1.56 1.36-2.24 3.72-1.44 5.68.36.88 1.12 1.52 1.8 2.16.76.68 1 1.91.32 2.72-.64.88-2.04.8-2.8.12-.8-.64-1.56-1.76-1.08-2.8.28-.56.92-.76 1.48-.72 1.24 0 2.48-.12 3.68 0 .52.08 1 .2 1.44.44m1.92-1.52c-.28-1.32.52-1.84 1.2-2.39.12-.08.2 0 .08.12-.2.48-.68 1.16-.6 1.72 0 .24-.64.68-.68.56" fill="#037"/>
+<ellipse opacity=".4" rx="6.742" ry="2.214" transform="rotate(-43)" cy="90.34" cx="10.75" fill="url(#i)"/>
+<path stroke="#014" stroke-width=".268" d="m65.64 52.71.617 9.298.1722.04783 5.209-7.739" fill="url(#d)"/>
+<path d="m66.13 58.28.2487 3.63 2.057-3.013" fill="url(#c)"/>
+<g transform="translate(53.76 42.01)">
+<path stroke="url(#a)" stroke-width=".27" d="m14.3 1.8-2.42 8.91 6 1.6 2.41-8.9" fill="url(#f)"/>
+<path stroke="url(#a)" stroke-width=".2" d="m16.5 11.83 2.37-8.81m-3.22-.86-2.37 8.82" fill="none"/>
+<path d="m14.1 1.68-.39 1.47 6.42 1.72.39-1.47" fill="url(#e)"/>
+</g>
+</g>
+</svg>
