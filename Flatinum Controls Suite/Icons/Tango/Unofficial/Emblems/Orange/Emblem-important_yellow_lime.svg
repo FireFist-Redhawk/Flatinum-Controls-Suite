@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
+  <defs>
+    <radialGradient id="a" cx="24.29" cy="41.4" r="21.1" gradientTransform="matrix(1 0 0 .3526 0 26.8)" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="24.29" cy="41.4" fill="url(#a)" opacity=".41" rx="21.1" ry="7.44"/>
+  <circle cx="24.3" cy="21.4" r="21.27" fill="orange"/>
+  <circle cx="24.44" cy="21.31" r="20" fill="#f5ef00" stroke="#fc0"/>
+  <path fill="green" d="M21.46 10.39c-.13 0-.23.16-.23.37L22.3 25.2c0 .21.11.38.23.38h3.57c.13 0 .23-.17.23-.38l1.07-14.44c0-.21-.11-.37-.23-.37h-5.7"/>
+  <path fill="#faff00" fill-opacity=".478599" d="M43.68 20.301999c0 10.83-6.1-4.31-18.67.39-12.73 4.72-20.58 10.44-20.58-.39C4.43 9.472 13.23.682 24.06.682c10.83 0 19.62 8.79 19.62 19.619999"/>
+  <circle cx="24.360001" cy="30.200001" r="2.3" fill="green"/>
+</svg>

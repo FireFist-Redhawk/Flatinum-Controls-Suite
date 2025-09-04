@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48">
+<defs>
+<radialGradient id="b" gradientUnits="userSpaceOnUse" cy="28.46" cx="26.54" gradientTransform="matrix(1.156.006-.006 1.261-4.84-7.34)" r="22.38">
+<stop stop-color="#f68383" offset="0"/>
+<stop stop-color="#a00" offset="1"/>
+</radialGradient>
+<radialGradient id="c" gradientUnits="userSpaceOnUse" cy="42" cx="31.55" gradientTransform="matrix(1 0 0 .333-7.55 28)" r="18">
+<stop offset="0"/>
+<stop stop-opacity="0" offset="1"/>
+</radialGradient>
+<radialGradient id="a" gradientUnits="userSpaceOnUse" cy="17.9" cx="-9.62" gradientTransform="matrix(4.446 0 0 6.866 67.3-104.7)" r="8.75">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#b8b8b8" offset="1"/>
+</radialGradient>
+</defs>
+<ellipse opacity=".63" rx="18" ry="6" cy="42" cx="24" fill="url(#c)"/>
+<circle cy="24" cx="24" r="21" fill="#a00"/>
+<g stroke-linejoin="round" stroke="#fff">
+<circle stroke-width="2.6" stroke-opacity=".96" cy="24" cx="24" r="18.6" fill="url(#b)"/>
+<text font-size="29.4" stroke-width=".8" fill="url(#a)" transform="scale(1.026.975)" font-weight="bold" font-family="DejaVu Sans" stroke-opacity=".78" y="35.45" x="24.46" text-anchor="middle">?</text>
+</g>
+</svg>
