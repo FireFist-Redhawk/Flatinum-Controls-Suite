@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<svg  xmlns="http://www.w3.org/2000/svg" height="48px" width="48px" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path id="a" d="m36.9 39.74c2.77 0 5-2.23 5-5v-8c0-2.77-2.23-5-5-5h-14.2c-2.77 0-5 2.23-5 5v8c0 2.77 2.26 5 4.79 5 0.27 1.79-1.25 3.68-1.97 4.66 2.73-1.06 5.42-3.5 6.11-4.66h10.27"/>
+<clipPath id="g" clipPathUnits="userSpaceOnUse">
+<use xlink:href="#a"/>
+</clipPath>
+<linearGradient id="b" y2="39" gradientUnits="userSpaceOnUse" x2="35" y1="26" x1="27">
+<stop stop-color="#ebf4ff" offset="0"/>
+<stop stop-color="#cde" offset="1"/>
+</linearGradient>
+<radialGradient id="c" gradientUnits="userSpaceOnUse" cy="41" cx="31" gradientTransform="matrix(1 0 0 .5333 0 18.13)" r="14">
+<stop offset="0"/>
+<stop stop-opacity="0" offset="1"/>
+</radialGradient>
+</defs>
+<use y="-19" x="4" xlink:href="#k" opacity=".5"/>
+<use xlink:href="#s" y="-10" x="-10"/>
+<use y="-11" x="-15" xlink:href="#k" opacity=".7"/>
+<g id="k">
+<ellipse id="s" opacity=".12" rx="14" ry="8" cy="40" cx="31" fill="url(#c)"/>
+<use xlink:href="#a" stroke="#204a87" stroke-width="2"/>
+<g clip-path="url(#g)" fill="none">
+<use xlink:href="#a" fill="url(#b)"/>
+<use xlink:href="#a" stroke="#fff" stroke-width="2"/>
+</g>
+<use xlink:href="#t" stroke="#fff" stroke-width="1.4"/>
+<g stroke="#204a87" stroke-width=".3">
+<text id="t" style="font-style:italic;font-family:DejaVu Serif;text-anchor:middle;font-size:17.3px;fill:#204a87" transform="scale(1.1 .9)" y="40.7" x="26.7">?</text>
+</g>
+</g>
+</svg>

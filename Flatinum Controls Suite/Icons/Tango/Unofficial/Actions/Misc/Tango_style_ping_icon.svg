@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1">
+<defs>
+<radialGradient id="a" gradientUnits="userSpaceOnUse" cy="35.88" cx="24.45" gradientTransform="matrix(.9702 0 0 .9702 .7292 .07003)" r="40.96">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#d3d7cf" offset="1"/>
+</radialGradient>
+<radialGradient id="b" gradientUnits="userSpaceOnUse" cy="44.57" cx="30.2" gradientTransform="matrix(2.846 0 0 .9701 -61.28 -2.497)" r="6.57">
+<stop offset="0"/>
+<stop stop-opacity="0" offset="1"/>
+</radialGradient>
+<linearGradient id="c" y2="24.93" gradientUnits="userSpaceOnUse" y1="19.46" gradientTransform="translate(0 -1)" x2="32.05" x1="16.72">
+<stop stop-color="#d3d7cf" offset="0"/>
+<stop stop-color="#888a85" offset="1"/>
+</linearGradient>
+<linearGradient id="d" y2="9.588" gradientUnits="userSpaceOnUse" x2="22.81" gradientTransform="translate(0 -1)" y1="38.11" x1="22.81">
+<stop stop-color="#555753" offset="0"/>
+<stop stop-color="#888a85" offset="1"/>
+</linearGradient>
+</defs>
+<ellipse opacity=".4" rx="19" ry="7" cy="40.3" cx="25" fill="url(#b)"/>
+<rect rx="5.45" height="40.1" width="40.1" stroke="#888a85" y="2.52" x="4.41" stroke-width="2" fill="url(#a)"/>
+<rect rx="4.24" height="37.7" width="37.7" stroke="#fff" y="3.71" x="5.6" stroke-width="1.6" fill="none"/>
+<path stroke="url(#d)" d="m32.15 24.85 2.46-6.79c1.44-4.04-.72-7.94-5.06-9.528-4.33-1.589-8.52 0-9.96 4.048l-2.45 6.78c-1.02 2.75-1.45 4.05-4.19 3.04l-.44 1.44 20.37 7.36.43-1.3c-2.75-1.01-2.17-2.31-1.16-5.05zm-8.37 7.36-4.04-1.44c-.44 1.3 1.15 3.47 3.03 4.19 1.87.72 4.62.14 5.05-1.3l-4.04-1.45z" fill="url(#c)"/>
+</svg>
