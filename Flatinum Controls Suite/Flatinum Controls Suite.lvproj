@@ -56,7 +56,8 @@
 				<Item Name="Up Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Up Button FCS_Flat.ctl"/>
 			</Item>
 			<Item Name="Multi-Decal" Type="Folder">
-				<Item Name="Add-Remove Button.ctl" Type="VI" URL="../Buttons/Multi-Decal/Add-Remove Button.ctl"/>
+				<Item Name="Add-Remove Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Multi-Decal/Add-Remove Button FCS_Flat.ctl"/>
+				<Item Name="Play-Pause Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Multi-Decal/Play-Pause Button FCS_Flat.ctl"/>
 			</Item>
 			<Item Name="Round" Type="Folder">
 				<Item Name="Blank Button FCS_Round.ctl" Type="VI" URL="../Buttons/Round/Blank Button FCS_Round.ctl"/>
