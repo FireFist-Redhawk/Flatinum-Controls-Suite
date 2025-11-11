@@ -31,7 +31,7 @@
 				<Item Name="Media Stop Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Media Stop Button FCS_Flat.ctl"/>
 				<Item Name="New Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/New Button FCS_Flat.ctl"/>
 				<Item Name="Next Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Next Button FCS_Flat.ctl"/>
-				<Item Name="OK Button FCS_Flat.ctl" Type="VI" URL="/&lt;vilib&gt;/Redhawk/Flatinum Controls Suite/Buttons/Flat/OK Button FCS_Flat.ctl"/>
+				<Item Name="OK Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/OK Button FCS_Flat.ctl"/>
 				<Item Name="Open Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Open Button FCS_Flat.ctl"/>
 				<Item Name="Paste Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Paste Button FCS_Flat.ctl"/>
 				<Item Name="Pause Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Pause Button FCS_Flat.ctl"/>
@@ -54,6 +54,9 @@
 				<Item Name="Stop Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Stop Button FCS_Flat.ctl"/>
 				<Item Name="Top Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Top Button FCS_Flat.ctl"/>
 				<Item Name="Up Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Flat/Up Button FCS_Flat.ctl"/>
+			</Item>
+			<Item Name="Multi-Decal" Type="Folder">
+				<Item Name="Add-Remove Button.ctl" Type="VI" URL="../Buttons/Multi-Decal/Add-Remove Button.ctl"/>
 			</Item>
 			<Item Name="Round" Type="Folder">
 				<Item Name="Blank Button FCS_Round.ctl" Type="VI" URL="../Buttons/Round/Blank Button FCS_Round.ctl"/>
@@ -580,8 +583,8 @@
 			<Item Name="Text &amp; Pict Ring FCS_Flat.ctl" Type="VI" URL="../Other/Text &amp; Pict Ring FCS_Flat.ctl"/>
 		</Item>
 		<Item Name="Simple Mods" Type="Folder">
-			<Item Name="File Path Control FCS_Centered.ctl" Type="VI" URL="/&lt;vilib&gt;/Redhawk/Flatinum Controls Suite/Simple Mods/File Path Control FCS_Centered.ctl"/>
-			<Item Name="String Control FCS_Centered.ctl" Type="VI" URL="/&lt;vilib&gt;/Redhawk/Flatinum Controls Suite/Simple Mods/String Control FCS_Centered.ctl"/>
+			<Item Name="File Path Control FCS_Centered.ctl" Type="VI" URL="../Simple Mods/File Path Control FCS_Centered.ctl"/>
+			<Item Name="String Control FCS_Centered.ctl" Type="VI" URL="../Simple Mods/String Control FCS_Centered.ctl"/>
 			<Item Name="Table Control FCS_Bright.ctl" Type="VI" URL="../Simple Mods/Table Control FCS_Bright.ctl"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
