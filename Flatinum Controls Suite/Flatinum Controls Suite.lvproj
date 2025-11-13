@@ -57,7 +57,12 @@
 			</Item>
 			<Item Name="Multi-Decal" Type="Folder">
 				<Item Name="Add-Remove Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Multi-Decal/Add-Remove Button FCS_Flat.ctl"/>
+				<Item Name="Light On-Off Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Multi-Decal/Light On-Off Button FCS_Flat.ctl"/>
+				<Item Name="Lock-Unlock Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Multi-Decal/Lock-Unlock Button FCS_Flat.ctl"/>
+				<Item Name="Mode Light-Dark Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Multi-Decal/Mode Light-Dark Button FCS_Flat.ctl"/>
+				<Item Name="Mute-Unmute Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Multi-Decal/Mute-Unmute Button FCS_Flat.ctl"/>
 				<Item Name="Play-Pause Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Multi-Decal/Play-Pause Button FCS_Flat.ctl"/>
+				<Item Name="Record-Stop Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Multi-Decal/Record-Stop Button FCS_Flat.ctl"/>
 				<Item Name="Start-Stop Button FCS_Flat.ctl" Type="VI" URL="../Buttons/Multi-Decal/Start-Stop Button FCS_Flat.ctl"/>
 			</Item>
 			<Item Name="Round" Type="Folder">
