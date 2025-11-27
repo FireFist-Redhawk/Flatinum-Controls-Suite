@@ -602,6 +602,8 @@
 			<Item Name="Buttons Palette Icon.vi" Type="VI" URL="../Utility/Buttons Palette Icon.vi"/>
 			<Item Name="FCS Palette Icon.vi" Type="VI" URL="../Utility/FCS Palette Icon.vi"/>
 			<Item Name="Mass Rename Window Titles.vi" Type="VI" URL="../Utility/Mass Rename Window Titles.vi"/>
+			<Item Name="Multi-Decal Palette Icon.vi" Type="VI" URL="../Utility/Multi-Decal Palette Icon.vi"/>
+			<Item Name="Other Palette Icon.vi" Type="VI" URL="../Utility/Other Palette Icon.vi"/>
 			<Item Name="Ring &amp; Enum Palette Icon.vi" Type="VI" URL="../Utility/Ring &amp; Enum Palette Icon.vi"/>
 			<Item Name="Simple Mods Palette Icon.vi" Type="VI" URL="../Utility/Simple Mods Palette Icon.vi"/>
 		</Item>
