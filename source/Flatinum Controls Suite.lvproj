@@ -590,7 +590,6 @@
 		<Item Name="Other" Type="Folder">
 			<Item Name="Image Display FCS_Flat.ctl" Type="VI" URL="../Other/Image Display FCS_Flat.ctl"/>
 			<Item Name="Square LED FCS_Flat.ctl" Type="VI" URL="../Other/Square LED FCS_Flat.ctl"/>
-			<Item Name="Tab Control FCS_Flat.ctl" Type="VI" URL="../Other/Tab Control FCS_Flat.ctl"/>
 			<Item Name="Text &amp; Pict Ring FCS_Flat.ctl" Type="VI" URL="../Other/Text &amp; Pict Ring FCS_Flat.ctl"/>
 			<Item Name="Variant FCS_Flat.ctl" Type="VI" URL="../Other/Variant FCS_Flat.ctl"/>
 		</Item>
@@ -599,6 +598,7 @@
 			<Item Name="File Path Control FCS_Centered_NPS.ctl" Type="VI" URL="../Simple Mods/File Path Control FCS_Centered_NPS.ctl"/>
 			<Item Name="File Path Control FCS_NPS.ctl" Type="VI" URL="../Simple Mods/File Path Control FCS_NPS.ctl"/>
 			<Item Name="String Control FCS_Centered.ctl" Type="VI" URL="../Simple Mods/String Control FCS_Centered.ctl"/>
+			<Item Name="Tab Control FCS_Flat.ctl" Type="VI" URL="../Simple Mods/Tab Control FCS_Flat.ctl"/>
 			<Item Name="Table Control FCS_Bright.ctl" Type="VI" URL="../Simple Mods/Table Control FCS_Bright.ctl"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
