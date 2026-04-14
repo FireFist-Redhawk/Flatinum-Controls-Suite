@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-05-14 20:36:10" Modified_Date="2026-04-14 18:32:05" Creator="User" Comments="" ID="94e2183be93342f36c0da9cd9b03dae6">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-05-14 20:36:10" Modified_Date="2026-04-14 18:53:48" Creator="User" Comments="" ID="c007df241161c709e4631d77e949f526">
   <Library_General_Settings>
     <Package_File_Name>Redhawk_lib_Flatinum_Controls_Suite</Package_File_Name>
-    <Library_Version>1.3.0.11</Library_Version>
+    <Library_Version>2.0.0.12</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Andrew Casalenuovo</Packager>
       <URL>https://github.com/FireFist-Redhawk/Flatinum-Controls-Suite</URL>
-      <Release_Notes>- Changed the minimum required LabVIEW version to 20.0.
+      <Release_Notes>- Lowered the minimum required LabVIEW version to 20.0.
 - Added `Tab Control (Flat)` to the Simple Mods palette.</Release_Notes>
     </Description>
     <Destinations>
@@ -112,6 +112,15 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>Utility</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Flatinum Controls Suite.lvproj</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>.Flatinum Controls Suite.UserState</Path>
+      </Exclusions>
       <Place_Folder_Contents>
         <Path/>
       </Place_Folder_Contents>
@@ -243,7 +252,7 @@
         <Path>Buttons</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7E03FAA3F60D2D5BCDE673F20BCBAF28</GUID>
+      <GUID>1E5AC21C1A1B1CA1095FDC7114CA5A93</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -334,7 +343,7 @@
         <Path>Buttons\Multi-Decal</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F92AA109B81D54FED5C5A4B6A5148221</GUID>
+      <GUID>53A7ECF556501F59D20060F0B4677A44</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -901,7 +910,7 @@
         <Path>Buttons\Slim\Lock Button FCS_Slim.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E4E46197D57FF8D1BF119F76BD49B8E9</GUID>
+      <GUID>7DC38CA51BA472A041711D1DF48C786A</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1482,7 +1491,7 @@
         <Path>Buttons\Flat\Lock Button FCS_Flat.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>08B1FDCB8A5B7BC804B4CEFE525D0082</GUID>
+      <GUID>022C2294F72CF5E5371384A031EBCAC7</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1573,7 +1582,21 @@
         <Path>Simple Mods\Table Control FCS_Bright.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E79E6F53D45D9A61ABD772CEF1012C71</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Tab Control (Flat)</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Simple Mods\Tab Control FCS_Flat.ctl</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>6FE2FCC471544B931FE7F473A20D0B87</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1624,7 +1647,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B424A784D734D45C1CD5047FF0ED242E</GUID>
+      <GUID>EC0B2DD3986348970B963DAF843E2B90</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1771,7 +1794,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Status</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>11FFFCE73C426470FE0F9510B1E43AB8</GUID>
+      <GUID>038B669B3BA41CEFB7AB2E46F0634CFD</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1904,7 +1927,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Actions\View</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>20BDBD4C549E72D523CE6830B86B841A</GUID>
+      <GUID>3D15761EAFE0BC6715558DB7CDCD0EEB</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -2079,7 +2102,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Actions\Document\Document-save.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5EC9F1D2E21EC25A060B1A6BD864A069</GUID>
+      <GUID>A96A08EF504147AD216769B0BDBD3FF2</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -2282,7 +2305,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Actions\Edit\Folder-new.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5AF826C1A80A1DA5D05AF1F02300BC85</GUID>
+      <GUID>94DCB84DBA207AD90AE5980671038CA2</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -2443,7 +2466,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Actions\Format\Format-text-underline.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ACC9F952D6769E8496727C14BE7DB1D5</GUID>
+      <GUID>A843F40FF745DFC3FF078B0A5BD599EC</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -2548,7 +2571,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Actions\Mail\Mail-send-receive.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4DD047A1F145F35A046E96043791346A</GUID>
+      <GUID>EE323B4BCC0D8F9D0ACE61592A50DE5E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -2695,7 +2718,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Actions\Media\Media-skip-forward.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5EC933A5E0F50FD21C47ED3EFB637B68</GUID>
+      <GUID>DD095568A562E7D7C82C4DDD5E264274</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -2814,7 +2837,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Actions\Misc\Window-new.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F8800BCDA921FCD30C87807510257C70</GUID>
+      <GUID>739791F48019C98DCDCAC9E7436FF031</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -3003,7 +3026,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Actions\Navigation\List-remove.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8ABF72236814D9CCAEA2BBA1DFCA909B</GUID>
+      <GUID>58C21850B9E3542081E323378961E542</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -3052,7 +3075,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Actions\View\View-refresh.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C8382DD1B7DCA94A25D2E6A6C62E81A7</GUID>
+      <GUID>6D9FA3B7E722A592A3832E443101153D</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -3325,7 +3348,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Apps\Preferences</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>578C63B272358DEDE54460A5F0136C9C</GUID>
+      <GUID>65A4AC71D5A16DD82676163D793B448C</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>16</Parent_Palette_Index>
@@ -3360,7 +3383,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Apps\Flags\Preferences-desktop-locale-2.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CE8F2D8302447654EF196FBD4C3A6E7E</GUID>
+      <GUID>357705601E1B303C84B378E777777CA7</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>16</Parent_Palette_Index>
@@ -3549,7 +3572,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Apps\Preferences\Preferences-system-windows.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4517470618EF2F8362091D4EDC72AA51</GUID>
+      <GUID>4FDB100D8900578CE54B740A4861F5BE</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -3738,7 +3761,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Categories\Preferences-system.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EA1337904CE2198BD7DC6A46F049EC32</GUID>
+      <GUID>78C90273F1615DD1B9E5A4B00C5BEB46</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -4039,7 +4062,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Devices\Video-display.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4A49CCDB29FE80F1F6D1926D99343669</GUID>
+      <GUID>5BDAB1615479C97A9854BB42EC879C1B</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -4158,7 +4181,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Emblems\Emblem-unreadable.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>251E8766FAF269F8348AB54B3433B21C</GUID>
+      <GUID>CD448A049853EC71F1E588A82E9C808C</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -4361,7 +4384,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Emotes\Face-wink.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9DD63F5453D8BBAF9D82EA22284CCD01</GUID>
+      <GUID>F64D9FB5BF43EE79B54B45A1EF3978F9</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -4718,7 +4741,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Mimetypes\X-office-spreadsheet.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5E6EE8C72AF06F3A03DBB1BF8329CACE</GUID>
+      <GUID>A3A333026A387E0B452ABD816A67BC8D</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -4865,7 +4888,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Places\User-trash.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EC06DC4A1E9A143F043DF1FD30FCD5CA</GUID>
+      <GUID>05159EF04CBD1FB6F2142F79BE950A49</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -5250,7 +5273,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Status\Weather</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>23A8CBC47C9DA3582A77A7EFDD3BB974</GUID>
+      <GUID>324908A30A0997584B5F76DF1CAA721C</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>25</Parent_Palette_Index>
@@ -5411,7 +5434,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Base\Status\Weather\Weather-storm.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D0231A4A56CFBEACD7783132693DEE42</GUID>
+      <GUID>3786DFD930BF07BBB1F252F54038AE9B</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -5558,7 +5581,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Categories</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6BA981F088DF1B5239809266A586DD52</GUID>
+      <GUID>BA827A70E4F786D4C46D5ECF7EAA226D</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -5677,7 +5700,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Actions\View</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>50727B75216DDB85C9317C37F0E43326</GUID>
+      <GUID>DA1BDF27C048D2F90E94BB9DA484F07C</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -5852,7 +5875,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Actions\Document\Text-x-generic-info.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7946221D7B1768661662176FEBCD095A</GUID>
+      <GUID>45227797351968A1ACD4B0D7313D6232</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -5929,7 +5952,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Actions\Edit\Text-x-generic_with_pencil.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B945DB954EBE65BAF1F6AFF78AB5E9C9</GUID>
+      <GUID>AA1F3CCE69A8CDA25FDFD91AA4310F5B</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -5992,7 +6015,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Actions\Format\Pagebreak.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9825F3FDFB5AA00FC6EDC2AB1F9F965C</GUID>
+      <GUID>F6EEABB5A66A52974D8C0B01E9055F5A</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -6083,7 +6106,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Actions\Mail\Mail-message-open-alert.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1E75AA1690089B5B46B48069B773F056</GUID>
+      <GUID>25D1541188EDE9C876DDB3052B5C6A6E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -6230,7 +6253,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Actions\Misc\Text-x-generic-tour.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BC1473F1EA4FD096E1AD555B5FF1DF91</GUID>
+      <GUID>740A3F333561D373A61039F40430230F</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -6279,7 +6302,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Actions\Navigation\Go-next-purple.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>177D3D58F8E340AB198BBFBCC26CCB57</GUID>
+      <GUID>56265306B79E1DC404267E52178DCB11</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -6370,7 +6393,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Actions\View\View-zoom-target.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BB5EAE528C798C48215F99CB3992414E</GUID>
+      <GUID>231BB5F958A74B948FAF6E81AE735F2A</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -6503,7 +6526,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Apps\Flags</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>64064B5EE6ADBC995E3ADF7654AEE1D8</GUID>
+      <GUID>4D69BE5AA3A2082B05D3B50A39C1EBCC</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>36</Parent_Palette_Index>
@@ -6608,7 +6631,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Apps\Flags\US_Flag_icon.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>802865F484748F4FE22704418071341C</GUID>
+      <GUID>7A6C8DB69FD6C7A84A1BC093FD5EBF0A</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -6727,7 +6750,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Devices\Video-display-wide.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3EC4AE9E768B62598705D6A46D38BD8F</GUID>
+      <GUID>60A405E9D35340F64F21B26BDA542F5D</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -6874,7 +6897,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Emblems\People</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8B10DB40E328BE6E8925593C8B86DC6C</GUID>
+      <GUID>E9DF0D849DFB58B730E6D8D6446F8106</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>39</Parent_Palette_Index>
@@ -6979,7 +7002,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Emblems\Astronomy\Tango_Venus.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>34CA78035C69E636AE41C334564380C1</GUID>
+      <GUID>DF584E4181A7F279DF42BA0D5ACDCDF0</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>39</Parent_Palette_Index>
@@ -7028,7 +7051,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Emblems\Blue\Emblem-section.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ABF94165A09A70F43A82943C8F8D590D</GUID>
+      <GUID>A2DC71085DE9E60B39FBAA3635E03A30</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>39</Parent_Palette_Index>
@@ -7175,7 +7198,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Emblems\Chemistry\Conical_flask_yellow.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>281C81CF50B76A7C12DA0EF5ED0D84AC</GUID>
+      <GUID>C9F5DB3C1F99BE6468F6CE57F035D35C</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>39</Parent_Palette_Index>
@@ -7280,7 +7303,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Emblems\Mathematical symbols\Emblem-multiply.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4EE500D677576D3D1267374049D03856</GUID>
+      <GUID>8CC26C54157B6095A61A30FE707A4C21</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>39</Parent_Palette_Index>
@@ -7399,7 +7422,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Emblems\Orange\Incomplete.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3BCAFF15581E36D8DFF0CAB160BBF88F</GUID>
+      <GUID>B773AE6979632351A0156D97D1506713</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>39</Parent_Palette_Index>
@@ -7574,7 +7597,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Emblems\Symbols\Peace_symbol_Tango.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F0F14A85AC270FCFDBBF886417E7FABE</GUID>
+      <GUID>079C4BE2041A644B7D08CF24CAB848C5</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>39</Parent_Palette_Index>
@@ -7623,7 +7646,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Emblems\Tools\Tools-spanner-hammer.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D3F6EBF06145B45EF3B93377604144F4</GUID>
+      <GUID>CF345CA2DFFC8B493602B6CFC7CE6BC7</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>39</Parent_Palette_Index>
@@ -7770,7 +7793,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Emblems\Wiki related\Tango-style_question_icon.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2F316D75BB0DF5A62BFBDDFB7567404C</GUID>
+      <GUID>75BCEE86D7D55EA605700CBCDFD77BF5</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -7875,7 +7898,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Emotes\Wink(16px).ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5E1AF7DC6EFCC747BFBFA8409E338417</GUID>
+      <GUID>C397846A4BD309F17AFBBEFB13C8869D</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -7994,7 +8017,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Mimetypes\Text_document_with_shapes.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8D549BFEE855B6C69DC4CEDD2BB7F2D5</GUID>
+      <GUID>21FF1A3EBD74885087B05E139EACF289</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -8169,7 +8192,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Status\Text-search-failed.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>15AE1E9ECF691441320A329A0E54FEA5</GUID>
+      <GUID>9454716F05737B3FCC915223CB5FA938</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -8260,7 +8283,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Wiki specific\WikiBlame.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D8017F3C4BC970D65D4812BD872308B7</GUID>
+      <GUID>1538922D810325FC846CBECC29A347E2</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -8365,7 +8388,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Categories\Text-questionmark.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>131257CC9A9F0150AA2EB07A45C67590</GUID>
+      <GUID>A8682E017FD20F8B8537E079F02FC824</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -8442,7 +8465,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Other\Variant FCS_Flat.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B2415399F4E7043D29098CFD3847857E</GUID>
+      <GUID>B66699A41961477C703B9A37D59369DC</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -8491,7 +8514,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Round\Info Button FCS_Round.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>23A4867556A418236067FDD9C94370D0</GUID>
+      <GUID>91A30EAA3094D54E2EC429E1938AB3BF</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -8624,7 +8647,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Multi-Decal\Start-Stop Button FCS_Flat.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>721F68AE2E6C631C808D904DAA0DB767</GUID>
+      <GUID>C21BCA2D3B7C80CD37D5E11E0E4255ED</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>39</Parent_Palette_Index>
@@ -8799,7 +8822,7 @@ Note: due to different downscaling methods, there are slight decal differences b
         <Path>Buttons\Tango\Unofficial\Emblems\People\User_icon_3.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>086300CE85122D7BEBC0B5A154EF76D3</GUID>
+      <GUID>B554CBE69EE08835E5213A8A6B8B3150</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
